@@ -1,0 +1,41 @@
+html{
+	height: 100%;
+}
+
+
+body {
+	position: relative;
+  	height: auto;
+	min-height: 100%;
+}
+	
+
+#mapid{
+	height: 700px;
+	/*border: 2px solid hsl(0, 0%, 43%);*/
+	margin-top: -6%;
+	z-index: 0;
+}
+
+
+.title{
+	color: rgb(65, 16, 16);
+	text-align: center;
+	font-family: 'Britannic';
+	font-size: 25px;
+	font-style: bold;
+	margin-top: 0px;
+	margin-bottom: 70px;
+	background-color: white;
+	z-index: 10;
+	position: relative;
+}
+
+
+.select_specie{
+
+	font-size: 20px;
+	text-align: center;
+	border-color: brown;
+	border: 2px;
+}
